@@ -1,9 +1,7 @@
 # Fotomatic
 
 ## Project Overview
-# Fotomatic
-
-Fotomatic is a company specializing in high-quality photography services and products. We offer professional photo shoots, editing, and custom printing. Our skilled team captures your moments with precision and creativity.
+Fotomatic is a company specializing in high-quality photography services and products. We offer professional photo shoots, photo editing, and custom photo printing. Our skilled team captures your precious moments with precision and creativity, ensuring every photo tells a unique story. Whether it's a wedding, corporate event, or personal portrait session, Fotomatic is your go-to choice for stunning visuals.
 
 ## Features
 
@@ -24,7 +22,7 @@ Fotomatic is a company specializing in high-quality photography services and pro
    git clone <repository-url>
 
 ## Live Demo
-The project is hosted on GitHub Pages and can be viewed [here]().
+The project is hosted on GitHub Pages and can be viewed [here](https://j-m-nichols.github.io/Fotomatic/).
 
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
